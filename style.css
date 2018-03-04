@@ -1,0 +1,20 @@
+body {
+	background-image: url(corinne-kutz-211251-unsplash.jpg);
+	background-size: cover;
+}
+
+h1 {
+	text-align: center;
+	text-shadow: 2px 2px 8px #FF0000; 
+}
+
+.btn-primary {
+	margin: 0 auto;
+	border-radius: 200px 200px 200px 200px; 
+	background-color: #5f93e8;
+}
+
+
+.btn-primary:hover {
+  background-color: #ee4b08;
+ }
